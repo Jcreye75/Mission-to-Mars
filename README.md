@@ -22,6 +22,6 @@ All deliverable ones was executed correctly, obatining Mars Hemisphere Images an
 ### Deliverable 2: Update the Web App with Mars’s Hemisphere Images and Titles (40 points)
 Even I updated the Index file, I coudnt never make it works, a constant error on 5000/Scrape appeared. I hope I can have some time in the future to try to retake module 10 and re-submitt. Totally dissapointed.
 
-![MARS_Hemis.png](https://github.com/Jcreye75/Mission-to-Mars/blob/5c2b2289624ab22f500560a729c5c99edd1398f4/resources/MARS_Hemis.png)
-![5000_Scrape.png](https://github.com/Jcreye75/Mission-to-Mars/blob/5c2b2289624ab22f500560a729c5c99edd1398f4/resources/5000_Scrape.png)
+![MARS_Hemis.png](https://github.com/Jcreye75/Mission-to-Mars/blob/831de65090199189da1e1b785b99b21dfec0cc21/resources/MARS_Hemis.png)
+![5000_Scrape.png](https://github.com/Jcreye75/Mission-to-Mars/blob/831de65090199189da1e1b785b99b21dfec0cc21/resources/5000_Scrape.png)
 
